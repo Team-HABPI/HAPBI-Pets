@@ -1,0 +1,6 @@
+[submodule "HABPI-frontend"]
+	path = HABPI-frontend
+	url = https://github.com/Team-HABPI/HABPI-frontend.git
+[submodule "HABPI-backend"]
+	path = HABPI-backend
+	url = https://github.com/Team-HABPI/HABPI-backend.git
